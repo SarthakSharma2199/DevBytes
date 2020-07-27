@@ -7,9 +7,13 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!"
+        android:layout_width="180dp"
+        android:layout_height="59dp"
+        android:fontFamily="@font/roboto_light"
+        android:text="DevBytes"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="40sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
